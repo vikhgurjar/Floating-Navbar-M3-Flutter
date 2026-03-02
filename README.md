@@ -36,8 +36,8 @@ physics-based animation.
 
 ## 📸 Demo
 
+https://github.com/user-attachments/assets/ae45466f-a230-4010-8a07-ab3345f1676f
 
-<video src="https://github.com/user-attachments/assets/fbd26969-4cff-49b8-9ef0-0aeab9818f82" autoplay muted loop alt="Animated Floating Navbar Demo"></video>
 
 | Feature                  | Preview                      |
 | ------------------------ | ---------------------------- |
